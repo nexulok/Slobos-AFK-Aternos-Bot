@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "Neo-AscensionSMP.aternos.me",
+    "port": 42843,
     "version": "",
     "try-creative": false
   },
